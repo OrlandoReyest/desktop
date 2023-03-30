@@ -1,0 +1,12 @@
+Algoritmo Algoritmo_evidencias_sumativa_2
+	Definir n1,n2,result1,variable1 Como Entero
+	Escribir '1+4=5'
+	Escribir '2+5=12'
+	Escribir '3+6=21'
+	Escribir 'Ingresa datos'
+	Leer num1
+	Leer num2
+	result1 <- num1*num2
+	variable1 <- result1+num1
+	Escribir 'Resultado es ',variable1
+FinAlgoritmo
